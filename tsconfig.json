@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": "apps/test-app/node_modules",
+    "declaration": true,
+    "moduleResolution": "node",
+    "strict": true,
+    "target": "ESNext",
+    "traceResolution": true,
+    "typeRoots": ["apps/test-app/node_modules/@types"]
+  },
+  "include": ["packages"]
+}

@@ -1,0 +1,6 @@
+- Clone repo
+- `yarn` or `npm install`
+- `cd apps/test-app`
+- `yarn` or `npm install`
+- `cd ../..`
+- `yarn run build`
